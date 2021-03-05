@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/2-hafta---quote-generator---klcysn/static/css/main.22cc7bc5.chunk.css",
+    "main.js": "/2-hafta---quote-generator---klcysn/static/js/main.037e228b.chunk.js",
+    "main.js.map": "/2-hafta---quote-generator---klcysn/static/js/main.037e228b.chunk.js.map",
+    "runtime-main.js": "/2-hafta---quote-generator---klcysn/static/js/runtime-main.6f0d68f4.js",
+    "runtime-main.js.map": "/2-hafta---quote-generator---klcysn/static/js/runtime-main.6f0d68f4.js.map",
+    "static/js/2.b5655d1d.chunk.js": "/2-hafta---quote-generator---klcysn/static/js/2.b5655d1d.chunk.js",
+    "static/js/2.b5655d1d.chunk.js.map": "/2-hafta---quote-generator---klcysn/static/js/2.b5655d1d.chunk.js.map",
+    "static/js/3.f1b42b0c.chunk.js": "/2-hafta---quote-generator---klcysn/static/js/3.f1b42b0c.chunk.js",
+    "static/js/3.f1b42b0c.chunk.js.map": "/2-hafta---quote-generator---klcysn/static/js/3.f1b42b0c.chunk.js.map",
+    "index.html": "/2-hafta---quote-generator---klcysn/index.html",
+    "static/css/main.22cc7bc5.chunk.css.map": "/2-hafta---quote-generator---klcysn/static/css/main.22cc7bc5.chunk.css.map",
+    "static/js/2.b5655d1d.chunk.js.LICENSE.txt": "/2-hafta---quote-generator---klcysn/static/js/2.b5655d1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f0d68f4.js",
+    "static/js/2.b5655d1d.chunk.js",
+    "static/css/main.22cc7bc5.chunk.css",
+    "static/js/main.037e228b.chunk.js"
+  ]
+}
